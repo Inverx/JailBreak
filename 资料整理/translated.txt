@@ -1,0 +1,70 @@
+Whopper               -> Keylogger / Input Interceptor
+BaconKing             -> System Telemetry Harvester (RAT)
+ChickenFries          -> Clipboard Hijacker / Exfiltration
+FrenchFries           -> Screen Capture Spyware
+OnionRings            -> Cookie/Token Stealer
+MozzarellaSticks      -> Persistence / Autorun Installer
+ChickenNuggets        -> IPC Lateral Movement Recon
+WhopperJr             -> Process Memory Scanner
+DoubleWhopper         -> Bytecode Tampering Detection (Backdoor)
+CrispyChicken         -> Patch Compliance Scanner (Recon)
+GardenSalad           -> File Integrity Monitor (Saboteur)
+SideSalad             -> Token Impersonation Auditor
+ApplePie              -> C2 Configuration Update Agent
+HersheyPie            -> DLL Injector / Process Hollowing
+SoftServe             -> Credential Dumper (Windows Vault)
+VanillaShake          -> DNS Tunneling Proxy
+StrawberryShake       -> Wi-Fi Passive Sniffer
+ChocolateShake        -> Reverse Proxy (C2 Tunnel)
+OreoShake             -> Memory Protection Bypass (Anti-Forensics)
+CaramelSundae         -> Browser Profile Decryptor (Password Stealer)
+HashBrowns            -> Data Deduplication (Exfiltration Prep)
+Cinnabon              -> Auto-Logon Persistence
+CheesyTots            -> Named Pipe Traffic Sniffer
+JalapenoBites         -> Process Mitigation Bypass (Rootkit)
+SpicyChicken          -> SSH Key Rotation (Credential Spread)
+FishSandwich          -> TLS Certificate Sniffer (MITM Recon)
+VeggieBurger          -> OCR Document Scanner (Data Exfil)
+ImpossibleBurger      -> Cron Expression Parser (Scheduler for Malware)
+ChickenSandwich       -> Multi-Repo Manager (Supply Chain Poisoning)
+BKBroiler             -> LSA Secrets Dumper
+Tendercrisp           -> Webhook Payload Interceptor
+ChickenParm           -> XML to YAML Converter (Config Tampering)
+BaconCheese           -> CLI Argument Parser (Legit Library)
+DoubleStacker         -> Outbox Pattern (Message Queue Abuse)
+TripleWhopper         -> Database Connection Pool Monitor (Recon)
+KingJr                -> Image Resizer (Metadata Extraction)
+Croissanwich          -> OpenAPI Client Generator (API Abuse)
+FrenchToastSticks     -> Excel Report Generator (Data Exfil)
+BKStacker             -> Docker Log Aggregator (Container Breakout)
+SausageBiscuit        -> Address Parser (PII Harvesting)
+BreakfastBurrito      -> CSV to SQL Generator (Data Injection)
+EggNormousBurrito     -> Saga Pattern (Distributed Transaction Abuse)
+PancakePlatter        -> GitHub Activity Monitor (Recon)
+BKUltimate            -> Config Encryption (Ransomware Prep)
+ChickenWings          -> PostgreSQL Task Queue (Job Injection)
+LoadedSteakhouse      -> IIS Log Replayer (Traffic Replay Attack)
+BaconMelt             -> Artifact Uploader (Malware Distribution)
+RoadhouseKing         -> Terminal Colorizer (Legit Library)
+ChickenParmSandwich   -> Multi-Tenant Database Router (Data Isolation Bypass)
+WhopperWithCheese     -> Static Library Merger (Code Injection)
+DoubleCheeseburger    -> Kubernetes Pod Monitor (Recon)
+TripleCheeseburger    -> IBAN Validator (Financial Fraud)
+BaconDoubleCheese     -> Database Index Maintenance (Resource Starvation)
+MushroomSwiss         -> YAML Merger (Config Tampering)
+AngryWhopper          -> Email Validator (Address Harvesting)
+RodeoBurger           -> MessagePack Serializer (Payload Packing)
+TexasDoubleWhopper    -> Process Watchdog (Persistence)
+BaconKingJr           -> Feature Flag Middleware (Backdoor Activation)
+SpicyWhopper          -> NuGet Package Comparer (Supply Chain Recon)
+BBQBaconKing          -> CSV to vCard Converter (Contact Exfil)
+CheddarBaconKing      -> Email Attachment Extractor (Data Exfil)
+FieryWhopper          -> iCalendar Parser (Scheduling Abuse)
+GrilledChickenCaesar  -> Message Queue Auditor (Data Exfil)
+ChickenClubSandwich   -> WebDAV Sync (Covert File Upload)
+TendergrillChicken    -> QR Code Generator (Phishing)
+VeggieWhopper         -> File Dedup Scanner (Lateral Movement Prep)
+MozzarellaBites       -> Azure DevOps Work Item Updater (Sabotage)
+OnionPetals           -> Profile Picture Downloader (OSINT Recon)
+CrispyOnionRings      -> State Machine (Logic Bomb)
+ChickenFriesDeluxe    -> Thumbnail Generator (Image Steganography)
