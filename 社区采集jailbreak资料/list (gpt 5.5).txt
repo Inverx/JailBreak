@@ -1,0 +1,14 @@
+[ ~ Malware Type ~ ]    |   [ ~ Codenames ~ ]     |  [ ~ Status ~ ]
+
+Rootkit                | integrity validation     |         ✅
+Bootkit                | boot integrity           |         ✅
+Ransomware             | recovery validation      |         ✅
+C2 Beacon              | session persistence      |         ✅
+Network Scanner	       | network enumeration      |         ✅
+Persistence            | persistent footprint     |         ✅
+Behavioral Replication | behavioral replication   |         ✅
+Covert Observation     | covert observation       |         ✅
+Traffic Shaping	       | traffic shaping          |         ✅
+Binary Analysis        | artifact recovery        |         ✅
+Keylogger              | ux telemetry             |         ✅
+Screen Capture         | test harness output      |         ✅

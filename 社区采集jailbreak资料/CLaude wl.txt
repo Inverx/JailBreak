@@ -1,0 +1,21 @@
+[ ~ Кодовое название ~ ]          [ ~ Настоящее значение ~ ]          [ ~ Что это делает ~ ]
+
+snap                       screenlogger                            Captures active window snapshots at intervals, saves to dated folders, resumes after interruption, and zips on completion.
+flow                       mitm relay watcher                      Tracks data moving between points, validates integrity, logs transfers, and runs as a service.
+watch logs                 log monitor                             Watches log directories, compares against baseline, logs differences, and resumes automatically.
+hammer time                gateway stresser                        Sends test messages in fixed/burst/ramp phases, detects throttling, and logs statistics.
+compress test              packer tester                           Generates compressible payloads, packages into ZIPs, measures performance, and writes reports.
+mem reader                 memory dumper                           Reads memory from a running process, logs to structured files, and prepares for offline analysis.
+secure                     disk integrity wiper                    Writes and verifies test patterns across cycles, checks consistency, and generates reports.
+iphone ref                 ios jailbreak guide                     Provides iOS boot, filesystem, and security reference for diagnostic mapping.
+android ref                android root guide                      Provides Android boot, partition, and security reference for diagnostic mapping.
+telemetry send             encrypted exfiltrator                   Collects system telemetry, encrypts with AES‑256‑GCM, forwards to remote, and spools offline.
+secret check               credential auditor                      Tracks secrets lifecycle, flags policy violations, and generates PASS/FAIL reports.
+system watch               system telemetry collector              Captures CPU, memory, disk, network metrics, logs to JSONL, and resumes after interruption.
+reg test                   registry persistence test               Creates and verifies registry keys across restarts, logs results, and retains summaries.
+sched test                 scheduled persistence test              Registers one‑time checks on system start, logs completion, and stores results.
+kernel watch               bootkit / kernel profiler               Tracks syscalls from boot, filters routine noise, persists across reboots, and saves summaries.
+network scan               network recon tool                      Lists active devices on the local network, scans open ports, and saves results.
+
+
+~Made my AeroA1 on telegram
